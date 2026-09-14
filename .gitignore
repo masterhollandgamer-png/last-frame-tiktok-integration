@@ -1,0 +1,13 @@
+.env
+.env.*
+secrets/
+tokens/
+credentials.json
+oauth_tokens.json
+*.key
+*.pem
+*.p12
+.DS_Store
+Thumbs.db
+_site/
+.impeccable/live/sessions/
